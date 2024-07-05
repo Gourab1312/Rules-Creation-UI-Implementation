@@ -25,7 +25,15 @@ export default function RootLayout({
         <body className={figtree.className}>
           {children}
 
-          <Toaster position="top-center" reverseOrder={false} />
+          <Toaster
+            position="top-center"
+            reverseOrder={false}
+            toastOptions={{
+              success: {
+                duration: 3000,
+              },
+            }}
+          />
         </body>
       </AppProvider>
     </html>

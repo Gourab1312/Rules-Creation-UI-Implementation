@@ -96,6 +96,7 @@ export const AppProvider = ({ children }: { children: React.ReactNode }) => {
 
   function deleteProduct(id: string) {
     setProducts((products) => products.filter((product) => product.id !== id));
+    toast.success("State deleted");
   }
 
   function deleteVariantColumn(key: string) {
