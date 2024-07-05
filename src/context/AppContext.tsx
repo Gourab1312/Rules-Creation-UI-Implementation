@@ -36,7 +36,7 @@ const initialProducts = [
     product_filter: "design 2",
     primary_variant: "3",
     variant_2: "4",
-    filters: [{ field: "Discount Percentage", operator: ">", value: "20" }],
+    filters: [{ field: "tags", operator: "contain", value: "onsale" }],
   },
   {
     id: "3",
@@ -44,7 +44,7 @@ const initialProducts = [
     primary_variant: "5",
     variant_2: "6",
     filters: [
-      { field: "image_list.Product Image 2", operator: "is empty", value: "0" },
+      { field: "tags", operator: "contain", value: "__label:New" },
     ],
   },
 ] as unknown as Product[];

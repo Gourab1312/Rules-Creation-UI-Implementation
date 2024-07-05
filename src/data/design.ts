@@ -2,121 +2,121 @@ export const designs: Design[] = [
   {
     id: "1",
     image:
-      "https://media.shopkund.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/a/c/acu8056-1-printed-weaving-silk-saree-in-pink-sr23494.jpg",
-    name: "Single Image - Left - No Discount",
+      "https://5.imimg.com/data5/ANDROID/Default/2022/6/QW/GQ/CS/29603120/product-jpeg-1000x1000.jpg",
+    name: "Product image - zero discount",
   },
   {
     id: "2",
     image:
-      "https://5.imimg.com/data5/SELLER/Default/2022/8/BC/IT/RJ/18451800/traditional-look-soft-silk-saree-with-blouse.jpeg",
-    name: "Single image products - no discount",
+      "https://media.nihalfashions.com/media/catalog/product/cache/65345e2509ec259d7076b8990c2edf06/g/r/grey-cotton-mens-kurta-pajama-nmk-6148.jpg",
+    name: "Product image - zero discount",
   },
   {
     id: "3",
     image:
-      "https://media.shopkund.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/a/c/acu7601-1-embroidered-lace-silk-green-saree-with-blouse-sr23275_1_.jpg",
-    name: "4 image - zero discount",
+      "https://ethnicindia.co/cdn/shop/products/J-3-A.jpg?v=1675846409&width=200",
+    name: "4 image - onsale",
   },
   {
     id: "4",
     image:
-      "https://assets.ajio.com/medias/sys_master/root/20230728/GBrh/64c3db50a9b42d15c979555c/-473Wx593H-466398360-green-MODEL.jpg",
-    name: "2 image - zero discount",
+      "https://ethnicindia.co/cdn/shop/products/J-3.jpg?v=1675846409&width=200",
+    name: "4 image - onsale",
   },
   {
     id: "5",
     image:
-      "https://maahishmati.com/cdn/shop/products/Maheshwari-Handloom-Silk-Saree-Vijaya-Maahishmati-Hamdloom-Sarees-Premium-Maheshwari-Sari-1.jpg?v=1684869467",
+      "https://valintaformens.com/cdn/shop/products/photo_2023-03-27_02-27-21.jpg?v=1681723151",
     name: "4 image - fallback",
   },
   {
     id: "6",
     image:
-      "https://ivalinmabia.com/cdn/shop/files/sita-dark-maroon-semi-silk-saree-sarees-400.webp?v=1692533965",
+      "https://i.pinimg.com/736x/62/d3/4b/62d34b6c32e83e6007667e4335bf1cf7.jpg",
     name: "Multi image - fallback",
   },
   {
     id: "7",
     image:
-      "https://afbrand.s3.ap-south-1.amazonaws.com/images/items/Saundaryam-Pink-Kanjivaram-Silk-Saree-With-Amazing-Weaving-All-Over-02_8637617.webp",
+      "https://valintaformens.com/cdn/shop/products/photo_2023-03-27_02-26-33_16.jpg?v=1679994476",
     name: "Single image product",
   },
   {
     id: "8",
     image:
-      "https://media.shopkund.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/a/c/acu8056-1-printed-weaving-silk-saree-in-pink-sr23494.jpg",
+      "https://valintaformens.com/cdn/shop/products/photo_2023-03-27_02-26-33_16.jpg?v=1679994476",
     name: "4 image - new arrival",
   },
   {
     id: "9",
     image:
-      "https://media.shopkund.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/a/c/acu8056-1-printed-weaving-silk-saree-in-pink-sr23494.jpg",
-    name: "Exclusive single image - no discount",
+      "https://valintaformens.com/cdn/shop/products/photo_2023-03-27_02-27-21.jpg?v=1681723151",
+    name: "kurta image - no discount",
   },
   {
     id: "10",
     image:
-      "https://media.shopkund.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/a/c/acu8056-1-printed-weaving-silk-saree-in-pink-sr23494.jpg",
-    name: "Trending 2 images - special offer",
+      "https://valintaformens.com/cdn/shop/products/photo_2023-03-27_02-27-21.jpg?v=1681723151",
+    name: "Trending Image - special offer",
   },
   {
     id: "11",
     image:
-      "https://media.shopkund.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/a/c/acu8056-1-printed-weaving-silk-saree-in-pink-sr23494.jpg",
-    name: "Latest 3 images - special price",
+      "https://ethnicindia.co/cdn/shop/products/J-3-A.jpg?v=1675846409&width=200",
+    name: "kurta image - 10% discount",
   },
   {
     id: "12",
     image:
-      "https://media.shopkund.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/a/c/acu8056-1-printed-weaving-silk-saree-in-pink-sr23494.jpg",
-    name: "Discounted 4 images",
+      "https://ethnicindia.co/cdn/shop/products/J-3.jpg?v=1675846409&width=200",
+    name: "kurta image - no discount",
   },
   {
     id: "13",
     image:
-      "https://media.shopkund.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/a/c/acu8056-1-printed-weaving-silk-saree-in-pink-sr23494.jpg",
-    name: "Top 1 image - special discount",
+      "https://ethnicindia.co/cdn/shop/products/J-3.jpg?v=1675846409&width=200",
+    name: "top men wear",
   },
   {
     id: "14",
     image:
-      "https://media.shopkund.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/a/c/acu8056-1-printed-weaving-silk-saree-in-pink-sr23494.jpg",
-    name: "Top 2 images - new collection",
+      "https://ethnicindia.co/cdn/shop/products/J-3.jpg?v=1675846409&width=200",
+    name: "top men wear",
   },
   {
     id: "15",
     image:
-      "https://media.shopkund.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/a/c/acu8056-1-printed-weaving-silk-saree-in-pink-sr23494.jpg",
-    name: "Premium 3 images",
+      "https://ethnicindia.co/cdn/shop/products/J-3.jpg?v=1675846409&width=200",
+    name: "top men wear",
   },
   {
     id: "16",
     image:
-      "https://media.shopkund.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/a/c/acu8056-1-printed-weaving-silk-saree-in-pink-sr23494.jpg",
-    name: "New Arrival - single image",
+      "https://ethnicindia.co/cdn/shop/products/J-3.jpg?v=1675846409&width=200",
+    name: "top men wear",
   },
   {
     id: "17",
     image:
-      "https://media.shopkund.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/a/c/acu8056-1-printed-weaving-silk-saree-in-pink-sr23494.jpg",
-    name: "Best Seller - 2 images",
+      "https://ethnicindia.co/cdn/shop/products/J-3.jpg?v=1675846409&width=200",
+    name: "top men wear",
   },
   {
     id: "18",
     image:
-      "https://media.shopkund.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/a/c/acu8056-1-printed-weaving-silk-saree-in-pink-sr23494.jpg",
-    name: "Top Rated - 3 images",
+      "https://ethnicindia.co/cdn/shop/products/J-3.jpg?v=1675846409&width=200",
+    name: "top men wear",
   },
   {
     id: "19",
     image:
-      "https://media.shopkund.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/a/c/acu8056-1-printed-weaving-silk-saree-in-pink-sr23494.jpg",
-    name: "Editor's Choice - single image",
+      "https://ethnicindia.co/cdn/shop/products/J-3.jpg?v=1675846409&width=200",
+    name: "top men wear",
   },
   {
     id: "20",
     image:
-      "https://media.shopkund.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/a/c/acu8056-1-printed-weaving-silk-saree-in-pink-sr23494.jpg",
-    name: "Trending Now - 2 images",
+      "https://ethnicindia.co/cdn/shop/products/J-3.jpg?v=1675846409&width=200",
+    name: "top men wear",
   },
 ];
